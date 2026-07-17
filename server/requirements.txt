@@ -1,0 +1,16 @@
+# TruthGuard Flask API — Python dependencies
+flask==3.0.0
+flask-cors==4.0.0
+flask-jwt-extended==4.6.0
+pymysql==1.1.0
+python-dotenv==1.0.0
+
+# AI / ML
+torch==2.13.0
+transformers==4.42.4
+scikit-learn==1.4.2
+nltk==3.8.2
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+matplotlib==3.8.0
