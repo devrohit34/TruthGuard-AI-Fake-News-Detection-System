@@ -5,6 +5,9 @@ A full-stack AI web application that detects whether a news article is **Fake** 
 ## Live Demo (Frontend)
 The React frontend runs in the dev server. It includes a client-side NLP detection engine that mirrors the BERT pipeline (tokenization → stopword removal → lemmatization → feature extraction → classification) for instant, explainable predictions.
 
+## 🚀 Live Demo
+🌐 **Website:** https://truth-guard-ai-fake-news-detection.vercel.app
+
 ## Features
 - Paste news text or upload .txt/.csv files for instant analysis
 - Fake/Real classification with confidence percentage
